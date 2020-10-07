@@ -1,0 +1,122 @@
+[
+	{
+		"name": "bismuth_bronze",
+		"recipes": [
+			[{
+				"name": "zinc",
+				"min": 20, "max": 30
+			},{
+				"name": "copper",
+				"min": 50, "max": 65
+			},{
+				"name": "zinc",
+				"min": 10, "max": 20
+			}]
+		]
+	},{
+		"name": "black_bronze",
+		"recipes": [
+			[{
+				"name": "copper",
+				"min": 50, "max": 70
+			},{
+				"name": "silver",
+				"min": 10, "max": 25
+			},{
+				"name": "gold",
+				"min": 10, "max": 25
+			}]
+		]
+	},{
+		"name": "bronze",
+		"recipes": [
+			[
+				{
+					"name": "copper",
+					"min": 88, "max": 92
+				},{
+					"name": "tin",
+					"min": 8, "max": 12
+				}
+			],[
+				{
+					"name": "copper",
+					"min": 88, "max": 92
+				},{
+					"name": "zinc",
+					"min": 8, "max": 12
+				}
+			]
+		]
+	},{
+		"name": "rose_gold",
+		"recipes": [
+			[{
+				"name": "copper",
+				"min": 15, "max": 30
+			},{
+				"name": "gold",
+				"min": 70, "max": 85
+			}]
+		]
+	},{
+		"name": "sterling_silver",
+		"recipes": [
+			[{
+				"name": "copper",
+				"min": 20, "max": 40
+			},{
+				"name": "silver",
+				"min": 60, "max": 80
+			}]
+		]
+	},{
+		"name": "weak_steel",
+		"recipes": [
+			[{
+				"name": "steel",
+				"min": 50, "max": 70
+			},{
+				"name": "nickel",
+				"min": 15, "max": 25
+			},{
+				"name": "black_bronze",
+				"min": 15, "max": 25
+			}]
+		]
+	},{
+		"name": "weak_blue_steel",
+		"recipes": [
+			[{
+				"name": "steel",
+				"min": 20, "max": 25
+			},{
+				"name": "black_steel",
+				"min": 50, "max": 55
+			},{
+				"name": "bismuth_bronze",
+				"min": 10, "max": 15
+			},{
+				"name": "sterling_silver",
+				"min": 10, "max": 15
+			}]
+		]
+	},{
+		"name": "weak_red_steel",
+		"recipes": [
+			[{
+				"name": "steel",
+				"min": 20, "max": 25
+			},{
+				"name": "black_steel",
+				"min": 50, "max": 55
+			},{
+				"name": "brass",
+				"min": 10, "max": 15
+			},{
+				"name": "rose_gold",
+				"min": 10, "max": 15
+			}]
+		]
+	}
+]
